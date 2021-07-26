@@ -168,3 +168,17 @@ section {
   display: flex;
   margin-bottom: 32px;
 }
+
+.extra-info {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.extra-info span {
+  max-width: 60%;
+  text-align: center;
+  padding: 0 2.4rem;
+  font-size: 14px;
+  line-height: 1.8;
+}
