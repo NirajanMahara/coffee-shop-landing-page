@@ -182,3 +182,7 @@ section {
   font-size: 14px;
   line-height: 1.8;
 }
+
+.extra-info span a {
+  text-decoration: underline;
+}
