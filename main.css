@@ -154,9 +154,14 @@ section {
   margin-bottom: 24px;
 }
 
-.top-bottom-section .text h3 {
-  font-size: 19px;
+.top-bottom-section .text h3,
+.pride .text h3 {
+  font-size: 21px;
   line-height: 1.75;
+}
+
+.pride .text {
+  background-color: #d4e9e2;
 }
 
 .top-bottom-section {
