@@ -62,3 +62,22 @@ hr,
   background-color: rgb(207, 204, 204);
   opacity: 0.9;
 }
+
+.terms {
+  max-width: 1440px;
+  margin: 32px auto;
+  display: flex;
+}
+
+.terms li {
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.terms li:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  margin: 0 32px;
+}
