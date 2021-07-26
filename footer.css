@@ -81,3 +81,9 @@ hr,
 .separator {
   margin: 0 32px;
 }
+
+.copyright {
+  color: gray;
+  max-width: 1440px;
+  margin: 12px auto;
+}
